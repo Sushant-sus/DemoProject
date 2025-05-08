@@ -42,22 +42,23 @@ export const layoutitemlist = async () => {
   }
 };
 
-// export const layoutindexlistGet = async () => {
-//   try {
-//     const requestOptions = {
-//       method: "GET",
-//     };
-//     const response = await fetch(layoutindexlist, requestOptions);
-//     if (!response.ok) {
-//       throw new Error(`Failed to fetch data: ${response.status}`);
-//     }
-//     const data = await response.json();
-//     return data.result.data;
-//   } catch (error) {
-//     console.error("Error fetching layout data:", error);
-//     throw error;
-//   }
-// };
+export const layoutindexlistGet = async () => {
+  try {
+    const requestOptions = {
+      method: "GET",
+    };
+    const response = 'OK';
+    if (!response.ok) {
+      throw new Error(`Failed to fetch data: ${response.status}`);
+    }
+    const data = await response.json();
+    return data.result.data;
+  } catch (error) {
+    console.error("Error fetching layout data:", error);
+    throw error;
+  }
+};
+
 //layout new
 export const addLayout = async (formData) => {
   try {
