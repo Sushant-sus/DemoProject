@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/https.//Sushantsus.github.io/DemoProject/static/css/main.a1baebf4.css",
-    "main.js": "/https.//Sushantsus.github.io/DemoProject/static/js/main.2bdbd8e6.js",
-    "static/js/453.913a2bce.chunk.js": "/https.//Sushantsus.github.io/DemoProject/static/js/453.913a2bce.chunk.js",
-    "static/media/background2.png": "/https.//Sushantsus.github.io/DemoProject/static/media/background2.71f56073ff488bbb520d.png",
-    "static/media/Screenshot 2024-02-28 174131.png": "/https.//Sushantsus.github.io/DemoProject/static/media/Screenshot 2024-02-28 174131.0652d68d2384c4c81b4f.png",
-    "static/media/Header_-Food-ads.webp": "/https.//Sushantsus.github.io/DemoProject/static/media/Header_-Food-ads.c2e466b4568bc9197f12.webp",
-    "static/media/logo2.png": "/https.//Sushantsus.github.io/DemoProject/static/media/logo2.27487f39fccbf5397f20.png",
-    "static/media/Screenshot_1.png": "/https.//Sushantsus.github.io/DemoProject/static/media/Screenshot_1.e00e24c3f5fb7d1ec80f.png",
-    "static/media/Screenshot_2.png": "/https.//Sushantsus.github.io/DemoProject/static/media/Screenshot_2.1afe20856d80a27e46d3.png",
-    "index.html": "/https.//Sushantsus.github.io/DemoProject/index.html",
-    "main.a1baebf4.css.map": "/https.//Sushantsus.github.io/DemoProject/static/css/main.a1baebf4.css.map",
-    "main.2bdbd8e6.js.map": "/https.//Sushantsus.github.io/DemoProject/static/js/main.2bdbd8e6.js.map",
-    "453.913a2bce.chunk.js.map": "/https.//Sushantsus.github.io/DemoProject/static/js/453.913a2bce.chunk.js.map"
+    "main.css": "/DemoProject/static/css/main.67b99cbd.css",
+    "main.js": "/DemoProject/static/js/main.be26cb8a.js",
+    "static/js/453.913a2bce.chunk.js": "/DemoProject/static/js/453.913a2bce.chunk.js",
+    "static/media/background2.png": "/DemoProject/static/media/background2.71f56073ff488bbb520d.png",
+    "static/media/Screenshot 2024-02-28 174131.png": "/DemoProject/static/media/Screenshot 2024-02-28 174131.0652d68d2384c4c81b4f.png",
+    "static/media/Header_-Food-ads.webp": "/DemoProject/static/media/Header_-Food-ads.c2e466b4568bc9197f12.webp",
+    "static/media/logo2.png": "/DemoProject/static/media/logo2.27487f39fccbf5397f20.png",
+    "static/media/Screenshot_1.png": "/DemoProject/static/media/Screenshot_1.e00e24c3f5fb7d1ec80f.png",
+    "static/media/Screenshot_2.png": "/DemoProject/static/media/Screenshot_2.1afe20856d80a27e46d3.png",
+    "index.html": "/DemoProject/index.html",
+    "main.67b99cbd.css.map": "/DemoProject/static/css/main.67b99cbd.css.map",
+    "main.be26cb8a.js.map": "/DemoProject/static/js/main.be26cb8a.js.map",
+    "453.913a2bce.chunk.js.map": "/DemoProject/static/js/453.913a2bce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1baebf4.css",
-    "static/js/main.2bdbd8e6.js"
+    "static/css/main.67b99cbd.css",
+    "static/js/main.be26cb8a.js"
   ]
 }
