@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/https.//Sushant-sus.github.io/DemoProject/static/css/main.38d6287d.css",
+    "main.js": "/https.//Sushant-sus.github.io/DemoProject/static/js/main.fa6ce05b.js",
+    "static/js/453.913a2bce.chunk.js": "/https.//Sushant-sus.github.io/DemoProject/static/js/453.913a2bce.chunk.js",
+    "static/media/background2.png": "/https.//Sushant-sus.github.io/DemoProject/static/media/background2.71f56073ff488bbb520d.png",
+    "static/media/Screenshot 2024-02-28 174131.png": "/https.//Sushant-sus.github.io/DemoProject/static/media/Screenshot 2024-02-28 174131.0652d68d2384c4c81b4f.png",
+    "static/media/Header_-Food-ads.webp": "/https.//Sushant-sus.github.io/DemoProject/static/media/Header_-Food-ads.c2e466b4568bc9197f12.webp",
+    "static/media/logo2.png": "/https.//Sushant-sus.github.io/DemoProject/static/media/logo2.27487f39fccbf5397f20.png",
+    "static/media/Screenshot_1.png": "/https.//Sushant-sus.github.io/DemoProject/static/media/Screenshot_1.e00e24c3f5fb7d1ec80f.png",
+    "static/media/Screenshot_2.png": "/https.//Sushant-sus.github.io/DemoProject/static/media/Screenshot_2.1afe20856d80a27e46d3.png",
+    "index.html": "/https.//Sushant-sus.github.io/DemoProject/index.html",
+    "main.38d6287d.css.map": "/https.//Sushant-sus.github.io/DemoProject/static/css/main.38d6287d.css.map",
+    "main.fa6ce05b.js.map": "/https.//Sushant-sus.github.io/DemoProject/static/js/main.fa6ce05b.js.map",
+    "453.913a2bce.chunk.js.map": "/https.//Sushant-sus.github.io/DemoProject/static/js/453.913a2bce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38d6287d.css",
+    "static/js/main.fa6ce05b.js"
+  ]
+}
