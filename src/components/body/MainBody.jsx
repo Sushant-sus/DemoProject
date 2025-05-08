@@ -7,7 +7,7 @@ import img1 from "../../image/img1.png";
 import img2 from "../../image/img2.png";
 import Footer from "../footer/Footer";
 import Header from "../header/Header";
-import { layoutlist } from "../Api";
+// import { layoutlist } from "../Api";
 import { useNavigate } from "react-router-dom";
 
 const images = [advertisement, ad1, ad2, img1, img2];
