@@ -25,22 +25,22 @@ export const layoutlist = async () => {
 };
 
 //get layout item list
-// export const layoutitemlist = async () => {
-//   try {
-//     const requestOptions = {
-//       method: "GET",
-//     };
-//     const response = await fetch(layoutitemurl, requestOptions);
-//     if (!response.ok) {
-//       throw new Error(`Failed to fetch data: ${response.status}`);
-//     }
-//     const data = await response.json();
-//     return data.result.data;
-//   } catch (error) {
-//     console.error("Error fetching layout data:", error);
-//     throw error;
-//   }
-// };
+export const layoutitemlist = async () => {
+  try {
+    const requestOptions = {
+      method: "GET",
+    };
+    const response = await fetch(layoutitemurladd, requestOptions);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch data: ${response.status}`);
+    }
+    const data = await response.json();
+    return data.result.data;
+  } catch (error) {
+    console.error("Error fetching layout data:", error);
+    throw error;
+  }
+};
 
 // export const layoutindexlistGet = async () => {
 //   try {
